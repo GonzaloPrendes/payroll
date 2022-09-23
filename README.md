@@ -16,7 +16,7 @@ I took the exercise from the book "Agile Software Development, Principles, Patte
 
 - The payroll application will run once each working day and pay the appropriate employees on that day. The system will be told to what date the employees are to be paid, so it will calculate payments from the last time the employee was paid up to the specified date.
 
-# Requirements Not Implemented
+# Further Requirements
 - Employees can select their method of payment. They may have their paychecks mailed to the postal address of their choice; they may have their paychecks held for pickup by the Paymaster; or they can request that their paychecks be directly deposited into the bank account of their choice.
 
 - The union may assess service charges against individual union members from time to time. These service charges are submitted by the union on a weekly basis and must be deducted from the appropriate employee’s next pay amount.
